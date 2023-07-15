@@ -126,11 +126,11 @@ body{
     align-items: center;
 }
 .pa{
-    border-left: 1px solid black;
     margin-inline: 10px;
 }
 .he{
-    border-left:1px solid black ;
+    border-right:1px solid black ;
+    padding:0px 10px
 }
 .tog-btn{
     margin-left: 30px;
